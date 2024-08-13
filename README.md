@@ -12,7 +12,7 @@ This project focuses on developing a system to extract blood vessels from retina
       <th>Mask Image</th>
     </tr>
     <tr>
-      <td><img src="https://github.com/falakian/Retinal-Vessel-Segmentation/blob/main/Step-by-step%20images/orginal_image.tif" alt="Orginal Image" /></td>
+      <td><img src="https://github.com/falakian/Retinal-Vessel-Segmentation/blob/main/Step-by-step%20images/orginal_image.png" alt="Orginal Image" /></td>
       <td><img src="https://github.com/falakian/Retinal-Vessel-Segmentation/blob/main/Step-by-step%20images/01_test_mask.gif" alt="Mask Image" /></td>
     </tr>
   </table>
@@ -85,5 +85,5 @@ The step Remove Small Regions involves eliminating small, scattered areas that a
 My results for 20 test images:
 
 <p align=center>
-<img src="https://github.com/falakian/Retinal-Vessel-Segmentation/blob/main/report/01_report.png">
+<img src="https://github.com/falakian/Retinal-Vessel-Segmentation/blob/main/Step-by-step%20images/result.png">
 </p>
